@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_menu_item"
+        android:visible="true"
+        android:title="@string/main_division"
+        >
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/item_tours"
+                    android:title="@string/tours_menu"
+                    android:icon="@drawable/ic_tours" />
+                <item
+                    android:id="@+id/item_record_tours"
+                    android:title="@string/record_tours_menu"
+                    android:icon="@drawable/ic_record_tours" />
+            </group>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Tracking Android</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="swipe_left_for_register">Deslizar a la izquierda para Registro</string>
+    <string name="login">Login</string>
+    <string name="password">Contraseña</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="tag">Unete a nosotros.</string>
+    <string name="swipe_right_for_login">Deslizar a la derecha para Login</string>
+    <string name="register">Registro</string>
+    <string name="re_type_password">Re-Ingrese Contraseña</string>
+    <string name="your_name">Nombre y Apellido</string>
+
+    <!--main menu-->
+    <string name="main_division">Menu</string>
+    <string name="tours_menu">Mis Recorridos</string>
+    <string name="record_tours_menu">Registrar Recorridos</string>
+
+    <!--Drawer-->
+    <string name="navigation_drawer_open">Abrir</string>
+    <string name="navigation_drawer_close">Cerrar</string>
+
+    <!--Dexter-->
+    <string name="denied_permission_permanently">No puede acceder a esta funcionalidad, ha negado los permisos. Debe activar los permisos manualmente</string>
+    <string name="permission_location_error">No ha concedido permisos para su Ubicación</string>\
+
+    <!--Record Tours-->
+    <string name="start_tour">Start</string>
+    <string name="finish_tour">Finish</string>
+
+    <!--Location-->
+    <string name="error_play_services">Debe actualizar o instalar Google Play Services</string>
+    <string name="error_not_available_play_services">Este dispositivo no Soporta Google Play Services</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="loading_text">Loading…</string>
+
+    <!--List-->
+    <string name="id_text">Id:</string>
+    <string name="time_travel_text">Tiempo Recorrido:</string>
+    <string name="date_text">Fecha:</string>
+    <string name="initial_time">00:00</string>
+
+    <string name="empty_data">No hay datos que mostrar.</string>
+</resources>
